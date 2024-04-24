@@ -1,7 +1,5 @@
 <h1>Hello World!</h1>
-<hr>
-I am Chris, an undergraduate and software developer from the University of the Philippines Los Baños.
-<hr>
+<p>I am Chris, an undergraduate and software developer from the University of the Philippines Los Baños.</p>
 <h2>Projects</h2>
 <p>These are some of the projects I have worked on:</p>
 <ul>
@@ -10,7 +8,6 @@ I am Chris, an undergraduate and software developer from the University of the P
   <li>SIETE - A Chrome extension that changes the behavior and appearance of <a href="https://sais.up.edu.ph">SAIS</a></li>
   <li>To add: projects from my college courses...</li>
 </ul>
-<hr>
 <h2>Contact Me</h2>
 <ul>
   <li>rnarlo@protonmail.com</li>
