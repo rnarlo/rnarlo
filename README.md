@@ -1,5 +1,5 @@
 <h1>Hello, world! 👋🏼</h1>
-<p>I am Chris, an undergraduate and software developer from the University of the Philippines Los Baños.</p>
+<p>I am Chris, a Front-End Software Developer. I graduated from the University of the Philippines Los Baños.</p>
 <h2>Featured Work</h2>
 <p>These are some of the projects I have worked on:</p>
 <ul>
