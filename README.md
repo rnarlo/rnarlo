@@ -10,7 +10,7 @@
 </ul>
 <h2>Contact Me</h2>
 <ul>
-  <li>cmjimenez@pm.me</li>
-  <li>cgjimenez4@alumni.up.edu.ph</li>
+  <li><a href="mailto:cmjimenez@proton.me">cmjimenez@proton.me</a></li>
+  <li><a href="cgjimenez4@alumni.up.edu.ph">cgjimenez4@alumni.up.edu.ph</a></li>
   <li>+63 921 537 7220</li>
 </ul>
