@@ -1,5 +1,5 @@
 <h1>Hello, world! 👋🏼</h1>
-<p>I am Chris, a Software Engineer currently working at Oracle NetSuite. I recetly graduated from the University of the Philippines Los Baños with a B.Sc. in Computer Science.</p>
+<p>I am Chris, a Software Engineer currently working at Oracle NetSuite.</p>
 <h2>Featured Work</h2>
 <p>These are some of the projects I have worked on:</p>
 <ul>
@@ -12,5 +12,4 @@
 <ul>
   <li><a href="mailto:cmjimenez@proton.me">cmjimenez@proton.me</a></li>
   <li><a href="mailto:cgjimenez4@alumni.up.edu.ph">cgjimenez4@alumni.up.edu.ph</a></li>
-  <li>+63 921 537 7220</li>
 </ul>
