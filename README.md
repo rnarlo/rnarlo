@@ -1,7 +1,7 @@
-<h1>Hello, world! 👋🏼</h1>
-<p>I am Chris, a Software Engineer currently working at Oracle NetSuite.</p>
+<h1>hello, world! 👋🏼</h1>
+<p>i am Chris, a software engineer.</p>
 <h2>Featured Work</h2>
-<p>These are some of the projects I have worked on:</p>
+<p>these are some of the projects i have worked on:</p>
 <ul>
   <li><a href="https://christopermarlo.dev/">christopermarlo.dev</a> - Check out my portfolio!</li> 
   <li>AR Graphix - A Swift application for iOS that utilizes Augmented Reality (ARKit) for teaching foundational Computer Graphics lessons.</li>
