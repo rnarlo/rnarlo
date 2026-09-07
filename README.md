@@ -1,5 +1,4 @@
 <h1>hello, world! 👋🏼</h1>
-<p>take a gamble that love exists, and do a loving act.</p>
 <h2>featured work</h2>
 <p>these are some of the projects i have worked on:</p>
 <ul>
